@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1767956231 source:d:\c_files\restaurantproject\main.cpp
+	<iostream>
+	"restaurant.h"
+
+1767956240 d:\c_files\restaurantproject\restaurant.h
+	<string>
+
+1767968753 source:d:\c_files\restaurantproject\restaurant.cpp
+	"restaurant.h"
+	<iostream>
+
